@@ -7,12 +7,6 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-.full {
-  margin: 50px;
-}
-.moves{
-  align-self: center;
-}
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
